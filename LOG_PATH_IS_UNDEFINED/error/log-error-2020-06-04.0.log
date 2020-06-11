@@ -1,0 +1,18 @@
+2020-06-04 14:59:12.196 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field monitorBigScreenComponent in com.kexin.admin.controller.MonitorController required a bean of type 'com.kexin.admin.component.MonitorBigScreenComponent' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.kexin.admin.component.MonitorBigScreenComponent' in your configuration.
+

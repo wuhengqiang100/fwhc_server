@@ -1,0 +1,102 @@
+2020-06-03 15:55:02.673 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 15:55:32.781 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 15:59:05.884 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:00:28.431 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:01:28.838 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:02:01.387 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:03:21.052 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:05:09.482 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:05:53.902 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:09:11.225 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:09:58.458 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:12:07.564 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:12:36.354 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:13:15.247 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:13:57.428 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:14:58.650 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:16:09.247 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:16:46.373 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:18:17.972 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:19:26.384 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:20:58.710 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:21:36.395 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:22:16.817 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:23:24.985 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:24:38.710 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:30:24.237 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:49:38.626 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:49:42.089 [restartedMain] DEBUG com.kexin.AdminApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:51:46.759 [restartedMain] DEBUG com.kexin.AdminApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-03 16:52:18.885 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.a.mapper.LoginUserMapper.selectLoginUserByName - ==>  Preparing: SELECT * from SYS_LOGIN_USERS WHERE LOGIN_USER_NAME=? 
+2020-06-03 16:52:18.925 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.a.mapper.LoginUserMapper.selectLoginUserByName - ==> Parameters: Admin(String)
+2020-06-03 16:52:18.968 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.a.mapper.LoginUserMapper.selectLoginUserByName - <==      Total: 1
+2020-06-03 16:52:18.986 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - ==>  Preparing: SELECT login_id,OPERATOR_ID,LOGIN_USER_NAME,LOGIN_USER_PASS FROM SYS_LOGIN_USERS WHERE login_id=? 
+2020-06-03 16:52:18.987 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - ==> Parameters: 0(Integer)
+2020-06-03 16:52:18.990 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - <==      Total: 1
+2020-06-03 16:52:18.991 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - ==>  Preparing: SELECT operator_id,OPERATOR_CODE,OPERATOR_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM dic_operators WHERE operator_id=? 
+2020-06-03 16:52:18.991 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - ==> Parameters: 0(Integer)
+2020-06-03 16:52:18.995 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - <==      Total: 1
+2020-06-03 16:52:18.996 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.admin.mapper.SystemLogMapper.insert!selectKey - ==>  Preparing: SELECT SQ_LOG_SYS_ACTIONS.NEXTVAL FROM DUAL 
+2020-06-03 16:52:18.996 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.admin.mapper.SystemLogMapper.insert!selectKey - ==> Parameters: 
+2020-06-03 16:52:18.999 [http-nio-192.168.137.2-8088-exec-3] DEBUG c.k.admin.mapper.SystemLogMapper.insert!selectKey - <==      Total: 1
+2020-06-03 16:52:19.012 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.SystemLogMapper.insert - ==>  Preparing: INSERT INTO LOG_SYS_ACTIONS ( log_sys_id, LOG_DATE, OPERATOR_ID, OPERATOR_NAME, LOG_TYPE, NOTE ) VALUES ( ?, ?, ?, ?, ?, ? ) 
+2020-06-03 16:52:19.013 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.SystemLogMapper.insert - ==> Parameters: 701(Integer), 2020-06-03 16:52:18.996(Timestamp), 0(Integer), 管理员(String), 登陆(String), 管理员  登陆了系统(String)
+2020-06-03 16:52:19.014 [http-nio-192.168.137.2-8088-exec-3] DEBUG com.kexin.admin.mapper.SystemLogMapper.insert - <==    Updates: 1
+2020-06-03 16:52:19.080 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - ==>  Preparing: SELECT login_id,OPERATOR_ID,LOGIN_USER_NAME,LOGIN_USER_PASS FROM SYS_LOGIN_USERS WHERE login_id=? 
+2020-06-03 16:52:19.080 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - ==> Parameters: 0(Integer)
+2020-06-03 16:52:19.081 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.LoginUserMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.082 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - ==>  Preparing: SELECT operator_id,OPERATOR_CODE,OPERATOR_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM dic_operators WHERE operator_id=? 
+2020-06-03 16:52:19.082 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - ==> Parameters: 0(Integer)
+2020-06-03 16:52:19.083 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.OperatorMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.109 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - ==>  Preparing: SELECT user_role_id,LOGIN_ID,ROLE_ID FROM SYS_USER_ROLES WHERE (LOGIN_ID = ?) 
+2020-06-03 16:52:19.109 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - ==> Parameters: 0(String)
+2020-06-03 16:52:19.112 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - <==      Total: 6
+2020-06-03 16:52:19.112 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.113 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 1(Integer)
+2020-06-03 16:52:19.114 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.114 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.115 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 15(Integer)
+2020-06-03 16:52:19.116 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.117 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.117 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 12(Integer)
+2020-06-03 16:52:19.118 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.118 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.118 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 13(Integer)
+2020-06-03 16:52:19.120 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.120 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.120 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 14(Integer)
+2020-06-03 16:52:19.122 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.122 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==>  Preparing: SELECT role_id,ROLE_CODE,ROLE_NAME,USE_FLAG,START_DATE,END_DATE,NOTE FROM SYS_ROLES WHERE role_id=? 
+2020-06-03 16:52:19.122 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - ==> Parameters: 25(Integer)
+2020-06-03 16:52:19.124 [http-nio-192.168.137.2-8088-exec-5] DEBUG com.kexin.admin.mapper.RoleMapper.selectById - <==      Total: 1
+2020-06-03 16:52:19.161 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - ==>  Preparing: SELECT user_role_id,LOGIN_ID,ROLE_ID FROM SYS_USER_ROLES WHERE (LOGIN_ID = ?) 
+2020-06-03 16:52:19.161 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - ==> Parameters: 0(Integer)
+2020-06-03 16:52:19.162 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.UserRoleMapper.selectList - <==      Total: 6
+2020-06-03 16:52:19.165 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT role_function_id,ROLE_ID,FUNCTION_ID FROM SYS_ROLE_FUNCTIONS WHERE (ROLE_ID IN (?,?,?,?,?,?)) 
+2020-06-03 16:52:19.166 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.RoleMenuMapper.selectList - ==> Parameters: 1(Integer), 15(Integer), 12(Integer), 13(Integer), 14(Integer), 25(Integer)
+2020-06-03 16:52:19.173 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.RoleMenuMapper.selectList - <==      Total: 65
+2020-06-03 16:52:19.177 [http-nio-192.168.137.2-8088-exec-7] DEBUG c.kexin.admin.mapper.SysFunctionMapper.selectList - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_TYPE_ID = ? AND FUNCTION_PARENT_ID IS NOT NULL AND FUNCTION_ID IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)) ORDER BY FUNCTION_PARENT_ID ASC 
+2020-06-03 16:52:19.179 [http-nio-192.168.137.2-8088-exec-7] DEBUG c.kexin.admin.mapper.SysFunctionMapper.selectList - ==> Parameters: 1(Integer), 1084(Integer), 1066(Integer), 1089(Integer), 1088(Integer), 1087(Integer), 1078(Integer), 1(Integer), 18(Integer), 13(Integer), 16(Integer), 1082(Integer), 1094(Integer), 1080(Integer), 1077(Integer), 1064(Integer), 1062(Integer), 1071(Integer), 1075(Integer), 1069(Integer), 1085(Integer), 1086(Integer), 1077(Integer), 1064(Integer), 1082(Integer), 1076(Integer), 1063(Integer), 1070(Integer), 1081(Integer), 1069(Integer), 1075(Integer), 1062(Integer), 1080(Integer), 1071(Integer), 1062(Integer), 1075(Integer), 1069(Integer), 1080(Integer), 1(Integer), 2(Integer), 3(Integer), 4(Integer), 18(Integer), 24(Integer), 5(Integer), 6(Integer), 8(Integer), 9(Integer), 10(Integer), 11(Integer), 12(Integer), 17(Integer), 13(Integer), 15(Integer), 16(Integer), 21(Integer), 22(Integer), 23(Integer), 27(Integer), 26(Integer), 25(Integer), 29(Integer), 28(Integer), 31(Integer), 32(Integer), 33(Integer)
+2020-06-03 16:52:19.187 [http-nio-192.168.137.2-8088-exec-7] DEBUG c.kexin.admin.mapper.SysFunctionMapper.selectList - <==      Total: 22
+2020-06-03 16:52:19.189 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.189 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 1(Integer)
+2020-06-03 16:52:19.191 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.193 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.193 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 5(Integer)
+2020-06-03 16:52:19.195 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.196 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.196 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 10(Integer)
+2020-06-03 16:52:19.197 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.199 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.199 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 13(Integer)
+2020-06-03 16:52:19.200 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.201 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.201 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 21(Integer)
+2020-06-03 16:52:19.202 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.204 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.204 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 25(Integer)
+2020-06-03 16:52:19.205 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 16:52:19.207 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==>  Preparing: SELECT function_id,FUNCTION_TYPE_ID,FUNCTION_CODE,FUNCTION_NAME AS name,FUNCTION_TITLE AS title,FUNCTION_PARENT_ID AS parentId,FUNCTION_CHILDREN_IDS AS childrenIds,FUNCTION_SORT AS sort,FUNCTION_HREF AS path,IS_SHOW AS hidden,PERMISSION AS roles,USE_FLAG,COMPONENT,ALWAYS_SHOW,FUNCTION_ICON AS icon,NO_CACHE,BREADCRUMB,REDIRECT,NOTE FROM SYS_FUNCTIONS WHERE (FUNCTION_ID = ?) 
+2020-06-03 16:52:19.207 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - ==> Parameters: 30(Integer)
+2020-06-03 16:52:19.208 [http-nio-192.168.137.2-8088-exec-7] DEBUG com.kexin.admin.mapper.SysFunctionMapper.selectOne - <==      Total: 1
+2020-06-03 18:49:07.707 [main] DEBUG com.kexin.admin.RedisSpringBootTests - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
